@@ -1,16 +1,18 @@
 {
   "files": {
-    "main.css": "/sprite-builder/static/css/main.f855e6bc.css",
-    "main.js": "/sprite-builder/static/js/main.76aeb9c1.js",
-    "static/js/453.1bdc35de.chunk.js": "/sprite-builder/static/js/453.1bdc35de.chunk.js",
-    "static/media/logo.svg": "/sprite-builder/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.css": "/sprite-builder/static/css/main.8a7b753f.css",
+    "main.js": "/sprite-builder/static/js/main.9a8b741f.js",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "/sprite-builder/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/fontawesome-webfont.eot": "/sprite-builder/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/sprite-builder/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "/sprite-builder/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/sprite-builder/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
     "index.html": "/sprite-builder/index.html",
-    "main.f855e6bc.css.map": "/sprite-builder/static/css/main.f855e6bc.css.map",
-    "main.76aeb9c1.js.map": "/sprite-builder/static/js/main.76aeb9c1.js.map",
-    "453.1bdc35de.chunk.js.map": "/sprite-builder/static/js/453.1bdc35de.chunk.js.map"
+    "main.8a7b753f.css.map": "/sprite-builder/static/css/main.8a7b753f.css.map",
+    "main.9a8b741f.js.map": "/sprite-builder/static/js/main.9a8b741f.js.map"
   },
   "entrypoints": [
-    "static/css/main.f855e6bc.css",
-    "static/js/main.76aeb9c1.js"
+    "static/css/main.8a7b753f.css",
+    "static/js/main.9a8b741f.js"
   ]
 }
